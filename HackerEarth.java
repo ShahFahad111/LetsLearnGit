@@ -18,6 +18,7 @@ class HackerEarth extends Thread
         hck.add("H"); 
         hck.add("A"); 
         hck.add("C"); 
+		hck.add("D"); // added D
     HackerEarth t = new HackerEarth();
         t.testhack(); 
   
