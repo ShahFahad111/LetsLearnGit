@@ -8,6 +8,8 @@ class HackerEarth extends Thread
     public void testhack() 
     { 
         hck.add("K"); 
+		System.out.println("Hello World");
+		
     } 
     
      public static void main(String[] args) 
